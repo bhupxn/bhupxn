@@ -1,11 +1,11 @@
-<h1 align="center">Hey, I'm Bhupendra 👋</h1>
+<h1 align="center">Bhupendra Dhangar</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer · MERN · Next.js</strong>
+  <strong>Full-Stack Developer · React · Next.js · Node.js</strong>
 </p>
 
 <p align="center">
-  Building clean, practical web experiences and learning something new with every project.
+  I build web applications, work on real-world problems, and keep learning along the way.
 </p>
 
 <p align="center">
@@ -19,21 +19,21 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a BCA student and Full-Stack Developer with hands-on experience
-building and improving web applications.
+working on production web applications.
 
-I've worked on production projects involving localization,
-frontend development, API integration, responsive UI,
-bug fixing, and client-driven requirements.
+During my internship, I worked across frontend development,
+localization, API integration, responsive UI, bug fixing,
+and client-driven requirements.
 
-Currently, I'm focused on strengthening my fundamentals,
-building real-world projects, and growing into a better software engineer.
+Right now, I'm focused on strengthening my fundamentals,
+building projects independently, and becoming a better software developer.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -55,40 +55,46 @@ building real-world projects, and growing into a better software engineer.
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### MERN Stack Developer Intern
 **Purplesky Infotech LLP · 6 Months**
 
-Worked across multiple production web applications, contributing to:
+Worked on multiple production web applications, contributing to:
 
 - Arabic localization and multilingual UI implementation
-- Admin, Employee and Employer application flows
-- Responsive frontend development and UI fixes
+- Admin, Employee, and Employer application flows
+- New page development and improvements to existing pages
+- Responsive UI implementation and frontend fixes
 - API integration and backend-provided data
 - Frontend bug fixing and functionality improvements
-- Client-driven UI implementation and content updates
+- Client-driven frontend requirements
 
-**Projects worked on:**  
+**Projects:**  
 `Job Seeker` · `Logic Funnel` · `Purple Learning` · `Eagles` · `Purple Suite`
 
 ---
 
-## 🚀 Currently
+## Currently
 
-- 🔨 Building real-world full-stack projects
-- 📚 Strengthening JavaScript & TypeScript fundamentals
-- ⚛️ Improving my React & Next.js skills
-- 🧠 Practicing Data Structures & Algorithms
-- 🌱 Exploring better ways to build scalable web applications
-- 🎯 Preparing for my next developer opportunity
+- Building full-stack projects independently
+- Strengthening JavaScript and TypeScript fundamentals
+- Improving my React and Next.js skills
+- Practicing Data Structures and Algorithms
+- Learning more about backend architecture
+- Preparing for my next developer opportunity
 
 ---
 
-## 📌 What I Care About
+## What I'm Building
 
-```text
-Clean Code        →  Readable & maintainable
-Good UI           →  Simple & intuitive
-Learning          →  Always improving
-Problem Solving   →  Understand before implementing
+I'm currently working on personal projects to turn what I've learned
+through internships and practice into complete, real-world applications.
+
+More projects will be added here as I build and ship them.
+
+---
+
+<p align="center">
+  <i>Build → Learn → Improve → Repeat.</i>
+</p>
